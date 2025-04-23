@@ -4,7 +4,7 @@ Aplicativo mobile desenvolvido com Flutter que tem como objetivo conscientizar e
 
 ## 📸 Preview
 
-<img src="https://i.imgur.com/aErDdzK.png" width="200" />
+<img src="https://i.imgur.com/5VVbn4W.png" width="600" />
 
 ## 🧩 Funcionalidades
 
